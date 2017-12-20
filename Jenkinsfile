@@ -21,7 +21,7 @@ node('master') {
           }
       }
    }
-
+}
 
    stage 'Test Case'
         echo 'Test Case will running'
